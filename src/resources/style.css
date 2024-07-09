@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: black;
+}
+
+#orangeButton {
+    -fx-background-color: black;
+    -fx-graphic: url('orange-slice.png');
+}
+
+#scoreLabel {
+    -fx-text-fill: white;
+    -fx-font: 20pt "Showcard Gothic";
+    -fx-font-size: 100;
+    -fx-text-align: center;
+}
